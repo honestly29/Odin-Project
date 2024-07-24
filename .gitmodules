@@ -1,0 +1,3 @@
+[submodule "css-exercise-one"]
+	path = css-exercise-one
+	url = https://github.com/honestly29/css-exercises.git
